@@ -1,2 +1,2 @@
 # Olá, mundo!
- Aprendendo git
+ Aprendendo **git** e **github** *através do Curso em vídeo*
