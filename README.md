@@ -27,3 +27,13 @@ Lista de tarefas:
 - [ ] Criar algo
 - [ ] Criar outra lista (- [ ])
 
+Tabelas: (cada linha: texto | testo | texto)
+Num | Nome | Nota
+---|---|---
+1 | Dunha | 10
+2 | José | 8,5
+3 | Maria | 0
+
+Código (usa-se crase no começo e fim) `document.write()`
+
+Trechos de programa: 3 crases para abrir e fechar (começo e fim)
