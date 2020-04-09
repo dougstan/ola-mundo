@@ -27,7 +27,7 @@ Lista de tarefas:
 - [ ] Criar algo
 - [ ] Criar outra lista (- [ ])
 
-Tabelas: (cada linha: texto | testo | texto)
+Tabelas: (cada linha: texto | testo | texto) (---|---|---para separar os títulos)
 Num | Nome | Nota
 ---|---|---
 1 | Dunha | 10
@@ -37,3 +37,5 @@ Num | Nome | Nota
 Código (usa-se crase no começo e fim) `document.write()`
 
 Trechos de programa: 3 crases para abrir e fechar (começo e fim)
+
+Emojis - :+1: (entre 2 pontos) - códigos: github.com/ikatyang, no repositório emoji
