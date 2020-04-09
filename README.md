@@ -38,4 +38,7 @@ Código (usa-se crase no começo e fim) `document.write()`
 
 Trechos de programa: 3 crases para abrir e fechar (começo e fim)
 
-Emojis - :+1: (entre 2 pontos) - códigos: github.com/ikatyang, no repositório emoji
+Emojis - :+1: (entre 2 pontos) - códigos: github.com/ikatyang, no repositório emoji  
+Não dá no título das issues colocar emojis - emojipedia.com, copiara figurinha e colar
+
+Marcar pessoas: @ perfil da pessoa
