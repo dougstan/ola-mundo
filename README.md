@@ -6,7 +6,7 @@
  Formatações Simples: 
 
  ** ou __ no começo e final - Negrito  
- * ou _ no começo e final - Itálico  
+ 1* ou _ no começo e final - Itálico  
  ~~ no começo e final - Tachado (riscado)  
  uma # - Título nível 1  
  2 ## - Título nível 2  
@@ -30,7 +30,7 @@ Lista de tarefas:
 Tabelas: (cada linha: texto | testo | texto) (---|---|---para separar os títulos)
 Num | Nome | Nota
 ---|---|---
-1 | Dunha | 10
+1 | Antonio | 10
 2 | José | 8,5
 3 | Maria | 0
 
